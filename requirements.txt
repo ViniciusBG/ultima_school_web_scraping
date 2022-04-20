@@ -1,0 +1,6 @@
+pandas
+selenium
+tqdm
+click
+webdriver-manager
+jupyterlab
